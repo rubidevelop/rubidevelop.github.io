@@ -1,2 +1,3 @@
 # rubidevelop.github.io
-host
+mail: rubidevelop@gmail.com
+Telegram:  @rubidevelop
