@@ -1,2 +1,0 @@
-# rubidevelop.github.io
-host
